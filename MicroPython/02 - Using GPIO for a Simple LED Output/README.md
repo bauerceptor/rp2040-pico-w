@@ -37,7 +37,7 @@ Connect the components as follows:
 
 ## Diagram
 
-![Fritzing Diagram for this circuit](02 - Circuit Diagram)
+![Fritzing Diagram for this circuit](02_Circuit.png)
 
 
 ## Code
