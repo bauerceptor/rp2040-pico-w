@@ -35,9 +35,9 @@ Connect the components as follows:
 2. In case code is flashed onto the micro-controller (Pico/Pico W) itself, make sure the power to micro-controller is also connected.
 3. The LED connected to GPIO pin 16 should start blinking.
 
-## Diagram
+## Circuit Schematics
 
-![Fritzing Diagram for this circuit](02_Circuit.png)
+![Schematics for this circuit](02_Circuit.png)
 
 
 ## Code
