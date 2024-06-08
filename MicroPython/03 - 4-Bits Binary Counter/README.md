@@ -4,8 +4,9 @@ This project implements a simple 4-bit binary counter using Raspberry Pi Pico W 
 
 ## Items Used
 - Raspberry Pi Pico W micro-controller
-- 4 LEDs
+- LEDs (4)
 - Some wires
+- 220 to 550 ohm Resistors (4)
 
 ## Circuit Schematic
 
