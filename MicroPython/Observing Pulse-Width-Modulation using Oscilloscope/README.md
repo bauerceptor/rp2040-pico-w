@@ -20,5 +20,5 @@ An oscilloscope is connected to GPIO pin 16 of the Pico W, with the ground conne
 
 ##Circuit Schematics
 
-![Circuit diagram]("07_Circuit.png")
+![Circuit diagram](07_Circuit.png)
 
