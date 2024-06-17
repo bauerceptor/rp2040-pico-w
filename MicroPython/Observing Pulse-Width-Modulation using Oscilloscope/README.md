@@ -18,7 +18,8 @@ An oscilloscope is connected to GPIO pin 16 of the Pico W, with the ground conne
 - Wires
 - Oscilloscope
 
-##Circuit Schematics
+## Circuit Schematics
 
 ![Circuit diagram](07_Circuit.png)
 
+Attach the Oscilloscope pins to the green wires, where the positive high is connected to GPIO pin 16 and the negative low is connected to the ground.
