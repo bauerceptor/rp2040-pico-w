@@ -11,11 +11,13 @@ This project demonstrates how to control an RGB (Red, Green, Blue) LED using Ras
 
 ## Circuit Schematics
 The circuit diagram illustrates the inner logic of an RGB LED and its pin configuration.
+
 ![RGB LED Circuit](RGB.png)
 
 
 ## Setup on Raspberry Pi Pico W
 This image showcases the complete setup on the Raspberry Pi Pico W, including the connections and components used for controlling the RGB LED.
+
 ![Complete Setup](09_Circuit.png)
 
 
