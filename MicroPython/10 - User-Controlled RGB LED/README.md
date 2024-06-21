@@ -33,5 +33,5 @@ The circuit diagram illustrates the inner logic of an RGB LED and its pin config
 ## Setup on Raspberry Pi Pico W
 This image showcases the complete setup on the Raspberry Pi Pico W, including the connections and components used for controlling the RGB LED.
 
-![Complete Setup](1_Circuit.png)
+![Complete Setup](10_Circuit.png)
 
