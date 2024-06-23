@@ -10,7 +10,8 @@ This project demonstrates how to control an LED using a push-button with the Ras
 
 
 ## Circuit Schematics
-The image below explains pin configuration of a simple push-button. Note that pin 1 and 2 are always connected and same is with pin 3 and 4.
+The image below explains pin configuration of a simple push-button. Note that pin 1 and 3 are always connected and same is with pin 2 and 4. 
+(!! The numbering of pins could differ but the actual connection is the same)
 
 ![push-button schematics](button.jpg)
 
