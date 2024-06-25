@@ -1,3 +1,6 @@
+'''
+Hello World! look at the blinking LED on my Pico W
+'''
 from machine import Pin
 from time import sleep
 
